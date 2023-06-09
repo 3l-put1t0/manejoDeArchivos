@@ -1,0 +1,13 @@
+{
+  "name": "manejodearchivos",
+  "version": "1.0.0",
+  "description": "Manipular información desde unos archivos con extensión .JSON\r donde se va a MODIFICAR, ELIMINAR, AGREGAR Y LEER ciertos datos,\r los cuales contendra el ID, TITLE, DESCRIPTION, PRICE, THUMBNAIL, CODE, STOCK.",
+  "main": "data.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
