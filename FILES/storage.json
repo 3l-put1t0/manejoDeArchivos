@@ -27,15 +27,6 @@
         "stock": "50"
     },
     {
-        "id": 4,
-        "title": "Cobre",
-        "description": "Conductor estandar",
-        "price": "100",
-        "thumbnail": "./cobre.png",
-        "code": "CD55",
-        "stock": "1000000"
-    },
-    {
         "id": 5,
         "title": "madera",
         "description": "Sustancia dura y fibrosa",
